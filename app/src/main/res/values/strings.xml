@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Hitung Serbaguna</string>
+    <string name="berat_ideal">Berat Ideal</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="konversi_suhu">Konversi Suhu</string>
+    <string name="konversi_nilai">Konversi Nilai</string>
+    <string name="menghitung_berat_ideal">Menghitung Berat Ideal</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="berat">Berat</string>
+    <string name="hasil_perhitungan">Hasil Perhitungan</string>
+    <string name="indeks_massa_tubuh">Indeks Massa Tubuh</string>
+    <string name="nilai_partisipasi">Nilai Partisipasi ..</string>
+    <string name="nilai_kehadiran">Nilai Kehadiran ..</string>
+    <string name="nilai_tugas_amp_tugas"><![CDATA[Nilai Tugas & Tugas ..]]></string>
+    <string name="kalkulator_bangun_datar">Kalkulator Bangun Datar</string>\
+    <string-array name="suhu_list">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Reamur</item>
+    </string-array>
+    <string name="phi">\u0278</string>
+    <string name="title_activity_bola">BolaActivity</string>
+    <string name="hello_world">Hello Square World!</string>
+</resources>
